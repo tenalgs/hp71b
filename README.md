@@ -1,2 +1,2 @@
 # hp71b
-algorithms
+Algorithms
